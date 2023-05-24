@@ -64,8 +64,10 @@ html {
 
   .navbar-content {
     display: flex;
+
     /* flex-wrap: inherit; */
     align-items: center;
+
     /* flex-direction: row-reverse; */
     justify-content: space-between;
     padding: 0;
@@ -112,7 +114,8 @@ html {
   }
 
   .summit-description {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.6)
       ),
@@ -280,7 +283,8 @@ html {
   }
 
   .first-summit {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -316,7 +320,8 @@ html {
   }
 
   .second-summit {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -481,8 +486,10 @@ html {
 
   .navbar-content {
     display: flex;
+
     /* flex-wrap: inherit; */
     align-items: center;
+
     /* flex-direction: row-reverse; */
     justify-content: space-between;
     padding: 0;
@@ -506,7 +513,8 @@ html {
 
   /* Summit Description Starts */
   .summit-description {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.6)
       ),
@@ -699,7 +707,8 @@ html {
   }
 
   .first-summit {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -711,7 +720,8 @@ html {
   }
 
   .second-summit {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
