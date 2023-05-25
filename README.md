@@ -26,7 +26,7 @@
 
 # :book: Capstone-Project <a name="Asylum Life Development Capstone Prject"></a>
 
-**Neural Nexus Summit** Asylum Life Development Capstone Prject is the capstone project of module 1.It is a simple website and it can be used for any kind of conference and summit. Here I used HTML, CSS, Bootstrap to design site and used Javascript for dynamic functionality.
+**Asylum Life Development** Asylum Life Development Capstone Prject is the capstone project of module 1.It is a simple website and it can be used for any kind of conference and summit. Here I used HTML, CSS, Bootstrap to design site and used Javascript for dynamic functionality.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -172,7 +172,7 @@ Give a :star:️ if you like this project and how I managed to build it!
 
 ## :pray: Acknowledgments <a name="acknowledgements"></a>
 
-- To [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), original designer.
+- To [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), original designer thanks so much for the great work.
 - Creative Commons license of the design
 - I would like to thanks my partners of microverse.
 - Finally I want to thank microverse.
