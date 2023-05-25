@@ -1,7 +1,7 @@
 const speakerWrapper = document.getElementById('speaker-wrapper');
 const hambarButton = document.querySelector('.hambar');
-const closeButton = document.querySelector('.cross-btn');
 const hambarSection = document.querySelector('.ham-popup');
+const closeButton = document.querySelector('.cross-btn');
 
 function showMenu() {
   hambarSection.style.display = 'block';
@@ -58,43 +58,22 @@ const featuredSpeakers = [
   },
 ];
 
-// featuredSpeakers.forEach((speaker) => {
-//   const newDiv = document.createElement("div");
-//   newDiv.classList.add("speaker", "col-md-6");
-//   newDiv.innerHTML = `
-//           <img src="${speaker.speakerImg}" alt="">
-//           <div class="speaker-details">
-//             <div class="speakername-wrap">
-//               <h3>${speaker.speakerName}</h3>
-//             </div>
-//             <div class="designition-wrap">
-//               <p class="designition">${speaker.designition}</p>
-//             </div>
-//             <div class="speaker-border"></div>
-//             <div class="speakerwork-wrap">
-//               <p class="speaker-work">${speaker.achievement}</p>
-//             </div>
-//           </div>`;
-//   speakerWrapper.append(newDiv);
-// });
-
-for (let i = 0; i < featuredSpeakers.length; i + 1) {
-  const speaker = featuredSpeakers[i];
+featuredSpeakers.forEach((speaker) => {
   const newDiv = document.createElement('div');
   newDiv.classList.add('speaker', 'col-md-6');
   newDiv.innerHTML = `
-      <img src="${speaker.speakerImg}" alt="">
-      <div class="speaker-details">
-        <div class="speakername-wrap">
-          <h3>${speaker.speakerName}</h3>
-        </div>
-        <div class="designition-wrap">
-          <p class="designition">${speaker.designition}</p>
-        </div> 
-        <div class="speaker-border"></div>
-        <div class="speakerwork-wrap">
-          <p class="speaker-work">${speaker.achievement}</p>
-        </div>
-      </div>`;
+          <img src="${speaker.speakerImg}" alt="">
+          <div class="speaker-details">
+            <div class="speakername-wrap">
+              <h3>${speaker.speakerName}</h3>
+            </div>
+            <div class="designition-wrap">
+              <p class="designition">${speaker.designition}</p>
+            </div>
+            <div class="speaker-border"></div>
+            <div class="speakerwork-wrap">
+              <p class="speaker-work">${speaker.achievement}</p>
+            </div>
+          </div>`;
   speakerWrapper.append(newDiv);
-}
+});
