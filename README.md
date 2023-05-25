@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://abbas-aljuaifari.github.io/capstone-project/)
+- [Live Demo Link](https://abbas-aljuaifari.github.io/capstone-project-repo2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +137,7 @@ npm test
 You can deploy this project using: GitHub Pages,
 
 - I used GitHub Pages to deploy my website.
-- For more information about publishing sources, see "[About GitHub pages](https://abbas-aljuaifari.github.io/capstone-project/)".
+- For more information about publishing sources, see "[About GitHub pages](https://abbas-aljuaifari.github.io/capstone-project-repo2/)".
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
